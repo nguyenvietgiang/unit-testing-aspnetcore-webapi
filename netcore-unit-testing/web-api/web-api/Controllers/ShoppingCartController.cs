@@ -4,6 +4,7 @@ using web_api.Model;
 
 namespace web_api.Controllers
 {
+    //https://localhost:63727/api/shoppingcart
     [Route("api/[controller]")]
     [ApiController]
     public class ShoppingCartController : ControllerBase
